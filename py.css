@@ -1,0 +1,18 @@
+html, body {
+    font-family:century gothic;
+    background: #8e69ff;
+    
+  }
+  canvas {
+    display: block;
+  }
+
+
+  
+  @keyframes bang {
+    from {
+      transform: translate3d(0, 0, 0);
+      opacity: 1;
+    }
+  }
+  
